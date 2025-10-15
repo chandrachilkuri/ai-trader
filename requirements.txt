@@ -1,0 +1,8 @@
+websockets
+requests
+yfinance
+PyYAML
+pandas
+numpy
+discord.py
+
