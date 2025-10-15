@@ -1,9 +1,1 @@
 .env
-DISCORD_TOKEN=your_discord_token_here
-NEWSAPI_KEY=your_newsapi_key_here
-OPENAI_KEY=your_openai_key_here
-TWELVEDATA_KEY=your_twelvedata_key_here
-ALPACA_KEY_ID=your_alpaca_key_id_here
-ALPACA_SECRET_KEY=your_alpaca_secret_key_here
-ALPHA_VANTAGE_KEY=your_alpha_vantage_key_here
-
